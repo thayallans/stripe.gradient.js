@@ -10,6 +10,7 @@ https://thayallan.com/stripe.gradient.js/demo/demo.html
 ```
 
 ## Usage
+You need to add a canvas to the DOM and reference that Canvas to produce the gradient
 ```javascript
 var gradient = new Gradient();
 // (id of Canvas, Color #1, Color #2, Color #3, Color #4)
