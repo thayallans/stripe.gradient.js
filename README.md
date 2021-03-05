@@ -1,6 +1,9 @@
 # stripe.gradient.js
 A clone of the Gradient  on Stripe's landing page (https://stripe.com) but wrapped up into a library for usage.
 
+## Live Demo!
+https://thayallan.com/stripe.gradient.js/demo/demo.html
+
 ## Installation (CDN)
 ```
 <script src="https://thayallan.com/stripe.gradient.js/src/stripe.gradient.js"></script>
